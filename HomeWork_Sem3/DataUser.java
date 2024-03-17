@@ -5,6 +5,7 @@ public class DataUser {
     String bfDay;
     String phone;
     String sex;
+
     public DataUser (String lastName, String firstName, String middleName, String bfDay, String phone, String sex) {
         this.firstName = firstName;
         this.lastName = lastName;
